@@ -1,5 +1,24 @@
 {
   "dependencies": {
-    "firebase": "^9.1.3"
-  }
+    "firebase": "^9.4.0"
+  },
+  "name": "web503assessment_three",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OleHochbruegge/WeB503Assessment_Three.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OleHochbruegge/WeB503Assessment_Three/issues"
+  },
+  "homepage": "https://github.com/OleHochbruegge/WeB503Assessment_Three#readme"
 }
